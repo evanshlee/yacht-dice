@@ -1,0 +1,15 @@
+{
+  "name": "evanshlee/yacht-dice",
+  "autoload": {
+    "psr-4": {
+      "EvanShLee\\YachtDice\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "evanshlee",
+      "email": "devleesche@gmail.com"
+    }
+  ],
+  "require": {}
+}
